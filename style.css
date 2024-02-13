@@ -60,7 +60,7 @@ body {
   border-radius: 35% 0 35% 0;
   text-align: center;
 }
-#card #message h2 {
+#card #message h2 h3{
   font-size: 20px;
   color: #fff;
   width: 160px;
